@@ -73,9 +73,3 @@ SayHiApp-Java-Chat-Application/
 5. **Run the Client:**
 
    * Compile and run the client-side application located in the `client/` directory.
-
----
-
-## 📝 License
-
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
